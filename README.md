@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grand Prix<br>🌱 I’m currently learning TypeScript and React<br>⚡ Fun fact I love chess
+🔭 I’m currently working on Grand Prix<br>🌱 I’m currently learning TypeScript and React<br>⚡ Fun fact: I love chess
 
 
 # 💻 Tech Stack:
